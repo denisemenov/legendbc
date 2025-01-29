@@ -1,0 +1,47 @@
+{
+  "company": {
+    "name": {
+      "short": "Легенда",
+      "full": "Бильярдный клуб Легенда"
+    },
+    "description": "Легендарное место в мире бильярда",
+    "type": "Бильярдный клуб",
+    "contacts": {
+      "phone": "+7 916 624 4545",
+      "address": {
+        "full": "Москва, Митино, Пятницкое ш., д. 3, ТЦ \"Пятница\", 2 этаж",
+        "city": "Москва",
+        "district": "Митино",
+        "street": "Пятницкое ш.",
+        "building": "д. 3",
+        "mall": "ТЦ \"Пятница\"",
+        "floor": "2 этаж"
+      },
+      "metro": "м. Волоколамская",
+      "walkTime": "2 минуты ходьбы"
+    },
+    "schedule": {
+      "weekdays": "ПН - ЧТ 12:00 - 02:00",
+      "weekend": "ПТ - ВС 12:00 - 06:00"
+    },
+    "social": {
+      "vk": { "title": "ВКонтакте", "link": "https://vk.com/legendbcru" },
+      "facebook": { "title": "Facebook", "link": "https://facebook.com/legendbcru" },
+      "instagram": { "title": "Instagram", "link": "https://instagram.com/legendbcru" }
+    }
+  },
+  "nav": {
+    "about": "О клубе",
+    "price": "Цены",
+    "events": "Корпоративы",
+    "contacts": "Контакты"
+  },
+  "footer": {
+    "title": "Контакты",
+    "subtitle": "Нас легко найти и мы умеем общаться любым удобным вам способом",
+    "findUs": "Мы находимся в {walkTime} от {metro}:"
+  },
+  "map": {
+    "hint": "Бильярдный клуб \"Легенда\""
+  }
+}

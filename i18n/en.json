@@ -1,0 +1,47 @@
+{
+  "company": {
+    "name": {
+      "short": "Legend",
+      "full": "Legend Billiard Club"
+    },
+    "description": "A legendary place in the world of billiards",
+    "type": "Billiard Club",
+    "contacts": {
+      "phone": "+7 916 624 4545",
+      "address": {
+        "full": "Moscow, Mitino, Pyatnitskoe highway 3, Mall \"Pyatnitsa\", 2nd floor",
+        "city": "Moscow",
+        "district": "Mitino",
+        "street": "Pyatnitskoe highway",
+        "building": "3",
+        "mall": "Mall \"Pyatnitsa\"",
+        "floor": "2nd floor"
+      },
+      "metro": "Volokolamskaya station",
+      "walkTime": "2 minutes walk"
+    },
+    "schedule": {
+      "weekdays": "MON - THU 12:00 - 02:00",
+      "weekend": "FRI - SUN 12:00 - 06:00"
+    },
+    "social": {
+      "vk": { "title": "VKontakte", "link": "https://vk.com/legendbcru" },
+      "facebook": { "title": "Facebook", "link": "https://facebook.com/legendbcru" },
+      "instagram": { "title": "Instagram", "link": "https://instagram.com/legendbcru" }
+    }
+  },
+  "nav": {
+    "about": "About",
+    "price": "Prices",
+    "events": "Events",
+    "contacts": "Contacts"
+  },
+  "footer": {
+    "title": "Contacts",
+    "subtitle": "We are easy to find and we can communicate in any way convenient for you",
+    "findUs": "We are {walkTime} from {metro}:"
+  },
+  "map": {
+    "hint": "Legend Billiard Club"
+  }
+}
